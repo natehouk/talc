@@ -2,7 +2,7 @@
 
 **A de-esser with intelligent single-vocal detection, linear-phase split-band processing and a sibilance display, for macOS, Windows and Linux (VST3 · AU · CLAP · VST2).**
 
-Part of **[Epsilon Audio](https://github.com/natehouk/epsilon-plugins)**, a family of free, open-source plugins: Monolith, Caldera, Obsidian, Strata, Basalt, Gneiss, Mica, Flint, Granite, Magma, Schist, Slate, Talc and Geode.
+Part of **[Epsilon Audio](https://github.com/natehouk/epsilon-plugins)**, a family of free, open-source plugins: Monolith, Caldera, Obsidian, Strata, Basalt, Gneiss, Mica, Flint, Granite, Magma, Schist, Slate, Talc, Geode and Malachite.
 
 ![Talc](screenshot.png)
 
