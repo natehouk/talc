@@ -1,4 +1,4 @@
-# Talc 1.0 — User Manual
+# Talc 1.1 — User Manual
 
 Talc is a de‑esser. It turns down harsh "s", "sh", "z" and "t" sounds (sibilance) without dulling the rest of the sound. Typical uses:
 

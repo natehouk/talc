@@ -140,6 +140,10 @@ Release checks:
 | `plugins/Talc/TalcUI.cpp` | Custom vector interface (NanoVG) |
 | `docs/MANUAL.md` | User manual (`Talc-Manual.html` is generated from it with pandoc) |
 
+## Changelog
+
+- **1.1:** The preset browser searches names and categories as you type, and keeps Favourites.
+
 ## License
 
 [MIT](LICENSE). Built with [DPF](https://github.com/DISTRHO/DPF) and its bundled NanoVG, which are under the ISC license. `plugins/Talc/ResizeHandle.hpp` comes from DPF's examples and keeps its ISC notice.
