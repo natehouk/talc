@@ -72,6 +72,7 @@ xattr -dr com.apple.quarantine ~/Library/Audio/Plug-Ins/*/Talc*
 - Smoothed, sample-accurate automation.
 - Resizable interface.
 - **22 factory presets** in three categories, plus user presets.
+- The preset browser **searches** names and categories as you type, and a star keeps a preset in **Favourites**.
 - **Hover tips** everywhere, a **HELP window**, and a **[full manual](docs/MANUAL.md)** (also in every release zip as `Talc-Manual.html`).
 
 ![Help](screenshot-help.png)

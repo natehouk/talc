@@ -42,7 +42,7 @@ inline const char* targetTip(int t) {
     case kTipA: case kTipB: return "Talc keeps two complete settings, A and B. Click the other letter to switch and compare.";
     case kTipCopy: return "Copies the current setting to the other slot.";
     case kTipPrev: return "Load the previous preset. The mouse wheel over the preset name also steps through presets.";
-    case kTipPresets: return "Open the preset browser. A * after the name means you have changed it.";
+    case kTipPresets: return "Open the preset browser. A * after the name means you have changed it. In the browser, type to search names and categories, and click a star to keep a preset in Favourites.";
     case kTipNext: return "Load the next preset.";
     case kTipDisplay: return "The last five seconds of audio. Red shows what Talc took away: you can see exactly which syllables were de-essed and by how much. The red line from the top is the gain reduction.";
     case kTipFilter: return "The sidechain band over a live spectrum of the input: Talc listens to the frequencies between the two handles (and in split band, turns only those down). Drag a handle, or drag between them to move the whole band.";
